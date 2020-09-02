@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\Organogram.exe.config
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\Organogram.exe
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\Organogram.pdb
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\CsvHelper.dll
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\CsvHelper.xml
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\Organogram\Organogram\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\Organogram\Organogram\obj\Debug\Organogram.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Organogram\Organogram\obj\Debug\Organogram.csproj.CopyComplete
+C:\Users\USER\source\repos\Organogram\Organogram\obj\Debug\Organogram.exe
+C:\Users\USER\source\repos\Organogram\Organogram\obj\Debug\Organogram.pdb

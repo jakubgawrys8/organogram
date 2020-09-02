@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organogram", "Organogram\Organogram.csproj", "{44186D80-D240-4C0A-8D79-B66C03FC1BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganogramTests", "OrganogramTests\OrganogramTests.csproj", "{249A3445-9E48-496B-9463-1FC70F734F80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44186D80-D240-4C0A-8D79-B66C03FC1BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44186D80-D240-4C0A-8D79-B66C03FC1BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44186D80-D240-4C0A-8D79-B66C03FC1BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44186D80-D240-4C0A-8D79-B66C03FC1BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249A3445-9E48-496B-9463-1FC70F734F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249A3445-9E48-496B-9463-1FC70F734F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249A3445-9E48-496B-9463-1FC70F734F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249A3445-9E48-496B-9463-1FC70F734F80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC85DA9-7E39-442D-8AF6-C481A6F93D3F}
+	EndGlobalSection
+EndGlobal
